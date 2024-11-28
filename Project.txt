@@ -1,0 +1,8 @@
+EEE 2124 Electronics Laboratory Project
+Smart Study Room 
+Features :
+
+1) It will display a message "Keep quiet" in the study room if any of the students make noise over a certain decibel 
+2) A lamp will be automatically on if a person seats to study (Use sensors)
+3) At the door there will be a display that shows the status of the study room ( total capacity, remaining capacity, temperature of the room) 
+4) If the temperature of the room crossed a fixed level fan / ac will be on automatically. ( Use a demo fan for implementation )
